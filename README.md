@@ -45,6 +45,13 @@ wordname and isValid(yes/no).
 35. Program to find the factorial of a number using recursion. [B**]
 36. Swap 2 numbers using bitwise operator.
 37. Program to find the GCD of two numbers. [B**]
+38. Fibonacci series Iterative and recursive way. Return the number at the nth position.
+39. Given an array of integers {82, 54, 1, 38, 61, 24} find the combination of 2 digits which gives the sum of 55.
+40. Check if the number is power of another number.
+41. Write a method for ATOI functionality (ASCII to Integer Conversion)
+42. Arrange given numbers to form the biggest number.Input- List of numbers : {1, 34, 3, 98, 9, 76, 45, 4}   Output – 998764543431
+43. Find the largest palindrome in a given String.
+44. Missing characters to make a string pangram.
 
 
 ## Linked List
@@ -97,6 +104,37 @@ wordname and isValid(yes/no).
 5. Give an algorithm for searching an element in a Binary Tree without recursion.
 6. Give an algorithm for inserting an element in a Binary Tree.
 7. Give an algorithm for finding the size of the Binary Tree.
+8. Give an algorithm for deleting the tree.
+9. Give an algorithm for finding the height (or depth) of the binary tree.
+10. Give an algorithm to find the deepest node of the binary tree.
+11. Give an algorithm to delete the node from the Binary Tree.
+12. Give an algorithm to find the leaf nodes of the Binary tree without recursion.
+13. Give an algorithm to finding the number of full nodes in the binary tree without using recursion.
+14. Give an algorithm for finding the number of half nodes (nodes with only one child) in the binary tree without recursion.
+15. Given two binary trees, return true if they are structurally identical.
+16. Give an algorithm for finding the diameter of the binary tree. The diameter of a tree (sometimes called the width) is the number of nodes on the longest path between two leaves in the tree.
+17. Give an algorithm for finding the level which is having maximum sum in the binary tree.
+18. Give a binary tree, print out all of its root-to-leaf paths.
+19. Give an algorithm for checking the existence of path with given sum. That means, given a sum check whether there exists a path from root to any of the nodes.
+20. Give an algorithm for finding the sum of all elements in binary tree.
+21. Given two trees, give an algorithm for checking whether they are mirrors of each other.
+22. Give an algorithm for constructing binary tree from given InOrder and PreOrder Traversals.
+23. If we are given two traversals sequences, can we construct the binary tree uniquely.
+24. Give an algorithm for finding LCA (Least Common Ancestor) of two nodes in Binary Tree.
+25. Zigzag Tree Traversal: Give an algorithm to traverse a binary tree in Zigzag order.
+26. Give an algorithm for finding the vertical sum of a binary tree.
+27. How many different binary trees are possible with n nodes.
+28. Given a binary tree with three pointers (left, right and nextSibling), give an algorithm for filling the nextSibling pointers assuming they are NULL initially.
+29. What is Generic Trees (N-ary Trees) ?
+30. Given a tree, give an algorithm for finding the sum of all the elements of the tree.
+31. For a 4-ary tree (each node can contain maximum of 4 children), what is the maximum possible height with 100 nodes? Assume height of a single node is 0.
+32. Given a node in the generic tree. Give an algorithm for counting the number of siblings for that node.
+33. Given two trees how do we check whether the trees are isomorphic to each other or not?
+34. Given a node in the generic tree, give an algorithm for counting the number of children for that node.
+
+## PRIORITY QUEUE AND HEAPS
+
+1. 
 
 
 ## Threading
