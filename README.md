@@ -1,7 +1,7 @@
 # CodingNinja
 The repository contains the coding practice questions.
 
-##Programming Problems
+## Programming Problems
 
 1. Given a String “aabbbbddcc” find the longest first repeating index and its length. (Input: “aabbbbddcc” Output:
 [2,4] 2 is the index and 4 is the length).
@@ -33,15 +33,15 @@ wordname and isValid(yes/no).
 23. Find out missing numbers between 1 to 100 in a sorted array. [B]
 
 
-#Threading
+## Threading
 1. Print even and odd value using using two threads.T1 prints odd values and T2 prints even values. T1 thread ->
 1,T2 thread -> 2,T1 thread ->3,T2 Thread ->4 etc.
 2. 
 
-##Theoretical Questions
+## Theoretical Questions
 
 1. Producer and Consumer problem with wait and notify.
 
-##Design Problems
+## Design Problems
 1. Large file is stored in DB (Trade_id, Amount, Timestamp), compare it with today's file and report the new trades , trades with reduced amount.
 2.   
